@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="searchbar_hint">Pencarian..</string>
+    <string name="name_user">Ahmad Khusnudin</string>
+    <string name="user_type">User</string>
+    <string name="followers">Followers</string>
+    <string name="number_followers">100</string>
+    <string name="following">Following</string>
+    <string name="address">San Francisco</string>
+    <string name="twitter">ahmadkhusnudin</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="public_repository">Public Repository : </string>
+    <string name="public_gists">Public Gists : </string>
+    <string name="avatar_image">avatar_image</string>
+    <string name="save_favorite">save_favorite?</string>
+    <string name="favorite_page">favorite_page?</string>
+    <string name="search_hint">Pencarian..</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="share">share?</string>
+    <string name="favorite">Favorite</string>
+    <string name="delete_favorite">delete_favorite?</string>
+
+</resources>
